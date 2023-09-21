@@ -6,6 +6,7 @@
     "build": "rimraf ./dist && tsc",
     "lint": "eslint . --ext .ts",
     "app-builder": "npm run build && node ./dist/patterns/builder/AppBuilder.js",
+    "app-factory": "npm run build && node ./dist/patterns/factory/AppFactory.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
