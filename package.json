@@ -8,7 +8,8 @@
   },
   "scripts": {
     "tsx": "tsx",
-    "prepare": "husky"
+    "prepare": "husky",
+    "factory-method": "tsx ./src/creational/factory-method/pratical-example/client.ts"
   },
   "keywords": [
     "design patterns",
