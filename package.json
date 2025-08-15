@@ -13,7 +13,8 @@
     "abstract-factory": "tsx ./src/creational/abstract-factory/practical-example/client.ts",
     "builder": "tsx ./src/creational/builder/practical-example/client.ts",
     "prototype": "tsx ./src/creational/prototype/practical-example/client.ts",
-    "singleton": "tsx ./src/creational/singleton/practical-example/client.ts"
+    "singleton": "tsx ./src/creational/singleton/practical-example/client.ts",
+    "adapter": "tsx ./src/structural/adapter/practical-example/client.ts"
   },
   "keywords": [
     "design patterns",
