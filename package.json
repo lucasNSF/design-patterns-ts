@@ -19,7 +19,8 @@
     "decorator": "tsx ./src/structural/decorator/practical-example/client.ts",
     "facade": "tsx ./src/structural/facade/practical-example/client.ts",
     "flyweight": "tsx ./src/structural/flyweight/practical-example/client.ts",
-    "proxy": "tsx ./src/structural/proxy/practical-example/client.ts"
+    "proxy": "tsx ./src/structural/proxy/practical-example/client.ts",
+    "cor": "tsx ./src/behavioral/chain-of-responsibility/practical-example/client.ts"
   },
   "keywords": [
     "design patterns",
