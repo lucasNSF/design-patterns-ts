@@ -17,7 +17,8 @@
     "adapter": "tsx ./src/structural/adapter/practical-example/client.ts",
     "composite": "tsx ./src/structural/composite/practical-example/client.ts",
     "decorator": "tsx ./src/structural/decorator/practical-example/client.ts",
-    "facade": "tsx ./src/structural/facade/practical-example/client.ts"
+    "facade": "tsx ./src/structural/facade/practical-example/client.ts",
+    "flyweight": "tsx ./src/structural/flyweight/practical-example/client.ts"
   },
   "keywords": [
     "design patterns",
